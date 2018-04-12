@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\03LetterRepetition\bin\Debug\03LetterRepetition.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\03LetterRepetition\bin\Debug\03LetterRepetition.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\03LetterRepetition\bin\Debug\03LetterRepetition.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\03LetterRepetition\obj\Debug\03LetterRepetition.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\03LetterRepetition\obj\Debug\03LetterRepetition.pdb

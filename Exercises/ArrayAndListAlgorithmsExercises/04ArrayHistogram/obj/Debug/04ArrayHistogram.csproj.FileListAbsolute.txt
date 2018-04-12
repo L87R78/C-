@@ -1,0 +1,1 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\04ArrayHistogram\bin\Debug\04ArrayHistogram.exe.config

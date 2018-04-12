@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\14DictRefAdvanced\bin\Debug\14DictRefAdvanced.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\14DictRefAdvanced\bin\Debug\14DictRefAdvanced.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\14DictRefAdvanced\bin\Debug\14DictRefAdvanced.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\14DictRefAdvanced\obj\Debug\14DictRefAdvanced.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\14DictRefAdvanced\obj\Debug\14DictRefAdvanced.pdb

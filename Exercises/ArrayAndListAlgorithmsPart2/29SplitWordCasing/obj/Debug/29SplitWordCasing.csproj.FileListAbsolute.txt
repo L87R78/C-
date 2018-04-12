@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\29SplitWordCasing\bin\Debug\29SplitWordCasing.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\29SplitWordCasing\bin\Debug\29SplitWordCasing.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\29SplitWordCasing\bin\Debug\29SplitWordCasing.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\29SplitWordCasing\obj\Debug\29SplitWordCasing.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\29SplitWordCasing\obj\Debug\29SplitWordCasing.pdb

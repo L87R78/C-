@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\01ShootListElements\bin\Debug\01ShootListElements.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\01ShootListElements\bin\Debug\01ShootListElements.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\01ShootListElements\bin\Debug\01ShootListElements.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\01ShootListElements\obj\Debug\01ShootListElements.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\01ShootListElements\obj\Debug\01ShootListElements.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\01ShootListElements\obj\Debug\01ShootListElements.pdb

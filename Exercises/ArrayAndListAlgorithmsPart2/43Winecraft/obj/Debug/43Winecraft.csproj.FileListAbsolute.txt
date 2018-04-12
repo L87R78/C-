@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\43Winecraft\bin\Debug\43Winecraft.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\43Winecraft\bin\Debug\43Winecraft.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\43Winecraft\bin\Debug\43Winecraft.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\43Winecraft\obj\Debug\43Winecraft.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\43Winecraft\obj\Debug\43Winecraft.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\43Winecraft\obj\Debug\43Winecraft.pdb

@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\16SocialMediaPosts\bin\Debug\16SocialMediaPosts.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\16SocialMediaPosts\bin\Debug\16SocialMediaPosts.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\16SocialMediaPosts\bin\Debug\16SocialMediaPosts.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\16SocialMediaPosts\obj\Debug\16SocialMediaPosts.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\16SocialMediaPosts\obj\Debug\16SocialMediaPosts.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\16SocialMediaPosts\obj\Debug\16SocialMediaPosts.pdb

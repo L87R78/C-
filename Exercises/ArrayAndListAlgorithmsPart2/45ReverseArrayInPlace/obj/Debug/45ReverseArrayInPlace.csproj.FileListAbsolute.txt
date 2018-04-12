@@ -1,0 +1,1 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\45ReverseArrayInPlace\bin\Debug\45ReverseArrayInPlace.exe.config

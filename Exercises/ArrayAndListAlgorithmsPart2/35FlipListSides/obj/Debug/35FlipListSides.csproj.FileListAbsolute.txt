@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\35FlipListSides\bin\Debug\35FlipListSides.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\35FlipListSides\bin\Debug\35FlipListSides.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\35FlipListSides\bin\Debug\35FlipListSides.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\35FlipListSides\obj\Debug\35FlipListSides.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\35FlipListSides\obj\Debug\35FlipListSides.pdb

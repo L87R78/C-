@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\06Batteries\bin\Debug\06Batteries.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\06Batteries\bin\Debug\06Batteries.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\06Batteries\bin\Debug\06Batteries.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\06Batteries\obj\Debug\06Batteries.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\06Batteries\obj\Debug\06Batteries.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\06Batteries\obj\Debug\06Batteries.pdb

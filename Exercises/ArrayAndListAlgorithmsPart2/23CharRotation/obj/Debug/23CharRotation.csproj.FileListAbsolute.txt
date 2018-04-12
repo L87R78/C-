@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\23CharRotation\bin\Debug\23CharRotation.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\23CharRotation\bin\Debug\23CharRotation.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\23CharRotation\bin\Debug\23CharRotation.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\23CharRotation\obj\Debug\23CharRotation.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\23CharRotation\obj\Debug\23CharRotation.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\23CharRotation\obj\Debug\23CharRotation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\08FilterBase\bin\Debug\08FilterBase.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\08FilterBase\bin\Debug\08FilterBase.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\08FilterBase\bin\Debug\08FilterBase.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\08FilterBase\obj\Debug\08FilterBase.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\08FilterBase\obj\Debug\08FilterBase.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\08FilterBase\obj\Debug\08FilterBase.pdb

@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\41UnunionLists\bin\Debug\41UnunionLists.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\41UnunionLists\bin\Debug\41UnunionLists.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\41UnunionLists\bin\Debug\41UnunionLists.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\41UnunionLists\obj\Debug\41UnunionLists.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\41UnunionLists\obj\Debug\41UnunionLists.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\41UnunionLists\obj\Debug\41UnunionLists.csprojResolveAssemblyReference.cache

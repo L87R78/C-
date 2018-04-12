@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\01CountRealNumbers\bin\Debug\01CountRealNumbers.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\01CountRealNumbers\bin\Debug\01CountRealNumbers.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\01CountRealNumbers\bin\Debug\01CountRealNumbers.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\01CountRealNumbers\obj\Debug\01CountRealNumbers.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\01CountRealNumbers\obj\Debug\01CountRealNumbers.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\01CountRealNumbers\obj\Debug\01CountRealNumbers.pdb

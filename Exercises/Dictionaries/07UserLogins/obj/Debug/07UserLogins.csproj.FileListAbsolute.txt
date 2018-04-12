@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\07UserLogins\bin\Debug\07UserLogins.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\07UserLogins\bin\Debug\07UserLogins.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\07UserLogins\bin\Debug\07UserLogins.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\07UserLogins\obj\Debug\07UserLogins.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\07UserLogins\obj\Debug\07UserLogins.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\07UserLogins\obj\Debug\07UserLogins.pdb

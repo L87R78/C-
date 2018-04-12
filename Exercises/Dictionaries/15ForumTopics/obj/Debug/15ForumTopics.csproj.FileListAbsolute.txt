@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\15ForumTopics\bin\Debug\15ForumTopics.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\15ForumTopics\bin\Debug\15ForumTopics.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\15ForumTopics\bin\Debug\15ForumTopics.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\15ForumTopics\obj\Debug\15ForumTopics.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\15ForumTopics\obj\Debug\15ForumTopics.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\15ForumTopics\obj\Debug\15ForumTopics.pdb

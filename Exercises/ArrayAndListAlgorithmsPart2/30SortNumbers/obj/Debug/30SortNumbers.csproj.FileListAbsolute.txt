@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\30SortNumbers\bin\Debug\30SortNumbers.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\30SortNumbers\bin\Debug\30SortNumbers.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\30SortNumbers\bin\Debug\30SortNumbers.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\30SortNumbers\obj\Debug\30SortNumbers.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\30SortNumbers\obj\Debug\30SortNumbers.pdb

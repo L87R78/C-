@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\05MixedPhones\bin\Debug\05MixedPhones.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\05MixedPhones\bin\Debug\05MixedPhones.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\05MixedPhones\bin\Debug\05MixedPhones.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\05MixedPhones\obj\Debug\05MixedPhones.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\05MixedPhones\obj\Debug\05MixedPhones.pdb

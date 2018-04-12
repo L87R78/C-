@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\09AverageStudentGrades\bin\Debug\09AverageStudentGrades.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\09AverageStudentGrades\bin\Debug\09AverageStudentGrades.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\09AverageStudentGrades\bin\Debug\09AverageStudentGrades.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\09AverageStudentGrades\obj\Debug\09AverageStudentGrades.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\09AverageStudentGrades\obj\Debug\09AverageStudentGrades.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\09AverageStudentGrades\obj\Debug\09AverageStudentGrades.csprojResolveAssemblyReference.cache

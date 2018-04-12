@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\03SortArrayOfStrings\bin\Debug\03SortArrayOfStrings.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\03SortArrayOfStrings\bin\Debug\03SortArrayOfStrings.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\03SortArrayOfStrings\bin\Debug\03SortArrayOfStrings.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\03SortArrayOfStrings\obj\Debug\03SortArrayOfStrings.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\03SortArrayOfStrings\obj\Debug\03SortArrayOfStrings.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsExercises\03SortArrayOfStrings\obj\Debug\03SortArrayOfStrings.pdb

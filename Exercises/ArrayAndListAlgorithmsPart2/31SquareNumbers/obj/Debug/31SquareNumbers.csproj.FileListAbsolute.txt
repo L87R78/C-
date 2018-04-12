@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\31SquareNumbers\bin\Debug\31SquareNumbers.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\31SquareNumbers\bin\Debug\31SquareNumbers.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\31SquareNumbers\bin\Debug\31SquareNumbers.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\31SquareNumbers\obj\Debug\31SquareNumbers.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\31SquareNumbers\obj\Debug\31SquareNumbers.pdb

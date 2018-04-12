@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\36TearListHalf\bin\Debug\36TearListHalf.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\36TearListHalf\bin\Debug\36TearListHalf.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\36TearListHalf\bin\Debug\36TearListHalf.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\36TearListHalf\obj\Debug\36TearListHalf.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\36TearListHalf\obj\Debug\36TearListHalf.pdb

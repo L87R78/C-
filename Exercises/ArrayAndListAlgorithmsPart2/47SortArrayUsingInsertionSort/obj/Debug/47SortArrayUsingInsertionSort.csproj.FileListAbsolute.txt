@@ -1,0 +1,1 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\47SortArrayUsingInsertionSort\bin\Debug\47SortArrayUsingInsertionSort.exe.config

@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\04DictRef\bin\Debug\04DictRef.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\04DictRef\bin\Debug\04DictRef.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\04DictRef\bin\Debug\04DictRef.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\04DictRef\obj\Debug\04DictRef.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\04DictRef\obj\Debug\04DictRef.pdb

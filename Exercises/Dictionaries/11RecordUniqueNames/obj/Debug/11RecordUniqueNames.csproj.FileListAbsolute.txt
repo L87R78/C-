@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\11RecordUniqueNames\bin\Debug\11RecordUniqueNames.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\11RecordUniqueNames\bin\Debug\11RecordUniqueNames.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\11RecordUniqueNames\bin\Debug\11RecordUniqueNames.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\11RecordUniqueNames\obj\Debug\11RecordUniqueNames.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\11RecordUniqueNames\obj\Debug\11RecordUniqueNames.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\11RecordUniqueNames\obj\Debug\11RecordUniqueNames.pdb

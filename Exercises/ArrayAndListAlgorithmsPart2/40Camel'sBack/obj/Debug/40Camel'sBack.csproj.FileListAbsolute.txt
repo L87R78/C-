@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\40Camel'sBack\bin\Debug\40Camel'sBack.exe.config
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\40Camel'sBack\bin\Debug\40Camel'sBack.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\40Camel'sBack\bin\Debug\40Camel'sBack.pdb
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\40Camel'sBack\obj\Debug\40Camel'sBack.exe
+B:\ExercisesHomeWork\ArrayAndListAlgorithmsPart2\ArrayAndListAlgorithmsPart2\40Camel'sBack\obj\Debug\40Camel'sBack.pdb

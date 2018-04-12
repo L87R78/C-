@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\13Shellbound\bin\Debug\13Shellbound.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\13Shellbound\bin\Debug\13Shellbound.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\13Shellbound\bin\Debug\13Shellbound.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\13Shellbound\obj\Debug\13Shellbound.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\13Shellbound\obj\Debug\13Shellbound.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\13Shellbound\obj\Debug\13Shellbound.csprojResolveAssemblyReference.cache

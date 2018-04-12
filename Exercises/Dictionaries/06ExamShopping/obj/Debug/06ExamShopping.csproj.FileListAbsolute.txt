@@ -1,0 +1,6 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\06ExamShopping\bin\Debug\06ExamShopping.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\06ExamShopping\bin\Debug\06ExamShopping.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\06ExamShopping\bin\Debug\06ExamShopping.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\06ExamShopping\obj\Debug\06ExamShopping.csprojResolveAssemblyReference.cache
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\06ExamShopping\obj\Debug\06ExamShopping.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\06ExamShopping\obj\Debug\06ExamShopping.pdb

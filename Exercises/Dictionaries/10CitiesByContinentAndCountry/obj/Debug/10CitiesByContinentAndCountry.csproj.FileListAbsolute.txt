@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\10CitiesByContinentAndCountry\bin\Debug\10CitiesByContinentAndCountry.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\10CitiesByContinentAndCountry\bin\Debug\10CitiesByContinentAndCountry.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\10CitiesByContinentAndCountry\bin\Debug\10CitiesByContinentAndCountry.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\10CitiesByContinentAndCountry\obj\Debug\10CitiesByContinentAndCountry.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\10CitiesByContinentAndCountry\obj\Debug\10CitiesByContinentAndCountry.pdb

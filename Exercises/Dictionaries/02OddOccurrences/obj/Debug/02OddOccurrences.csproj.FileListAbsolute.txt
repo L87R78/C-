@@ -1,0 +1,5 @@
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\02OddOccurrences\bin\Debug\02OddOccurrences.exe.config
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\02OddOccurrences\bin\Debug\02OddOccurrences.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\02OddOccurrences\bin\Debug\02OddOccurrences.pdb
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\02OddOccurrences\obj\Debug\02OddOccurrences.exe
+B:\ExercisesHomeWork\Dictionaries\Dictionaries\02OddOccurrences\obj\Debug\02OddOccurrences.pdb
